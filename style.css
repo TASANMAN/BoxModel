@@ -30,11 +30,13 @@
 
 .main-container_small1 {
   display: inline-block;
-  height: 97px;
-  width: 97px;
+  height: 87px;
+  width: 87px;
   background-color: #bf6083;
-  margin: 100px;
+  margin-left: 100px;
+  margin-top: 100px;
   border: 3px solid #00d6b3;
+  padding: 10px;
   font-size: 9px;
 }
 
@@ -43,24 +45,22 @@
   height: 87px;
   width: 87px;
   background-color: #00d6b3;
-  margin: 100px;
+  margin-left: 100px;
+  margin-top: 100px;
   border: 3px solid #1c3041;
   padding: 10px;
   font-size: 9px;
 }
 
-.main-container_small3 {
+.main-container_3 > p {
   display: inline-block;
   height: 87px;
-  width: 87px;
+  width: 76px;
+  margin-top: 100px;
+  margin-left: 45px;
+  margin-right: 45px;
   background-color: #ffd500;
-  margin: 100px;
-  margin-left: 37px;
   border: 3px solid #1c3041;
   padding: 10px;
   font-size: 9px;
-}
-
-.main-container_small4 {
-  display: inline-block;
 }
